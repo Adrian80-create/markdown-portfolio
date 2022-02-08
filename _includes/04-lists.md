@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Sports
+  * Soccer
+  * Volleyball
+* Music
+  * Pop
+  * R&B
